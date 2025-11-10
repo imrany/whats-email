@@ -1,7 +1,7 @@
 .PHONY: build build-linux build-macos build-windows run clean test
 
 # Variables
-BINARY_NAME=server
+BINARY_NAME=whats-email
 MAIN_PATH=main.go
 BIN_DIR=./bin
 
